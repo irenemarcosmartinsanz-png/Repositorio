@@ -1,0 +1,23 @@
+//Esto es el reset y estilos globales.//
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+background:$color-background;
+color:$color-text;
+font-family:$font-main;
+}
+
+img{
+max-width:100%;
+display:block;
+}
+
+a{
+text-decoration:none;
+color:inherit;
+}
